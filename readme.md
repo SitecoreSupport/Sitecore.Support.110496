@@ -1,5 +1,5 @@
 # Sitecore.Support.110496
-Fixes the issue of Keep Aspect Ratio being disabled in Image Properties dialog.
+Fixes the issue of `Keep Aspect Ratio` checkbox being disabled in `Image Properties` dialog.
 
 ## License  
 This patch is licensed under the [Sitecore Corporation A/S License for GitHub](https://github.com/sitecoresupport/Sitecore.Support.110496/blob/master/LICENSE).  
